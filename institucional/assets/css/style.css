@@ -1558,3 +1558,10 @@ section {
     padding: 2px 0;
   }
 }
+
+
+/*  -----CLASES AÑADIDAS----------------------------- */
+
+.space-around {
+  justify-content: space-around;
+}
