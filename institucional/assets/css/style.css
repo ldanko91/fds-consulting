@@ -1565,3 +1565,7 @@ section {
 .space-around {
   justify-content: space-around;
 }
+
+.red {
+  background-color: crimson !important;
+}
