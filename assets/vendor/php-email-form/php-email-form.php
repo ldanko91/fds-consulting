@@ -15,5 +15,7 @@ if(isset($_POST['submit'])){
 
     echo "Se envió tu mensaje" . $first_name . ", pronto nos pondremos en contacto con vos.";
     // You can also use header('Location: thank_you.php'); to redirect to another page.
+    } else {
+        echo "No se pudo enviar tu mensaje";
     }
 ?>
